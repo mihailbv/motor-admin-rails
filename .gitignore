@@ -11,11 +11,9 @@
 /spec/dummy/motor_example_dev
 /spec/dummy/tmp/
 /ui/node_modules
-/ui/dist
 .byebug_history
 .yardoc
 .DS_Store
 /images
 /coverage
-/dist
 *.gem
